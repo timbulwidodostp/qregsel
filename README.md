@@ -1,6 +1,8 @@
 # qregsel
 Quantile regression corrected for sample selection Use qregsel With STATA 18
 
+https://www.youtube.com/watch?v=J5m-teb8RTc
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
